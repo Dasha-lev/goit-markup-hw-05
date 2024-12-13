@@ -747,7 +747,7 @@ body {
   background-color: #404bbf;
   border: none;
 }
-.modal-form-agreement-input:checked ~ .modal-form-checkbox-icon {
+.modal-form-agreement-input:checked ~ .modal-form-checkbox {
   fill: #F4F4FD;
 }
 
