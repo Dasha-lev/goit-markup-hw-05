@@ -743,7 +743,7 @@ body {
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
-.modal-form-agreement-input + .modal-form-agreement-desc > .check-box  {
+.modal-form-agreement-input:checked + .modal-form-agreement-desc > .modal-form-checkbox  {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
