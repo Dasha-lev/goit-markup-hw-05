@@ -753,4 +753,12 @@ body {
 }
 .submit-button {
   letter-spacing: 0.04em;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  color: #ffffff;
+  background-color: #4D5AE5;
+  font-weight: 500;
+  font-size: 16px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
